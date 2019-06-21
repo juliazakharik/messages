@@ -29,7 +29,6 @@
             <optional>true</optional>
         </dependency>
 
-        <!--fly way -->
         <dependency>
             <groupId>org.flywaydb</groupId>
             <artifactId>flyway-core</artifactId>
